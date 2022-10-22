@@ -13,9 +13,10 @@ I am a BSc graduate from Shahjalal University of Science and Technology (SUST). 
 Research Interests
 ======
 I’m broadly interested in Natural Language Processing. They are specifically, but not limited to, as the following:
-1) **Social Media Texts (i.e., noisy and/or informal texts)**
-2) **Low Resource Languages**
-3) **Multilingual Models**
+
+1. **Social Media Texts (i.e., noisy and/or informal texts)**
+2. **Low Resource Languages**
+3. **Multilingual Models**
 
 Current Status
 ======
