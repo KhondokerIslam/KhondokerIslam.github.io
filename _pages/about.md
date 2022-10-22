@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a BSc graduate from Shahjalal University of Science and Technology (SUST). My undergradute thesis supervisor was [Prof. Saiful Islam](https://scholar.google.com/citations?user=tQT0OSAAAAAJ&hl). I am a Software Engineer at [Reve Systems Ltd](https://www.revesoft.com/).
+I am a BSc graduate from Shahjalal University of Science and Technology (SUST). My undergradute thesis supervisor was [Prof. Saiful Islam](https://scholar.google.com/citations?user=tQT0OSAAAAAJ&hl). I am serving [Reve Systems Ltd](https://www.revesoft.com/) as a Software Engineer.
 
 Research Interests
 ======
