@@ -19,4 +19,4 @@ I’m broadly interested in Natural Language Processing. They are specifically, 
 
 Current Status
 ======
-I am a Prospective Student seeking Ph.D. opportunities from the Fall '23.
+I am a <u>Prospective Student</u> seeking Ph.D. opportunities from the <u>Fall '23</u>.
