@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Khondoker Islam"
 title_separator          : "-"
-name                     : &name "Khondoker Islam"
+name                     : &name "Khondoker I. Islam"
 description              : &description "personal description"
 url                      : https://KhondokerIslam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Khondoker Islam"
+  name             : "Khondoker I. Islam"
   avatar           : "profile.png"
   bio              : "BSc Graduate"
   location         : "Dhaka, Bangladesh"
