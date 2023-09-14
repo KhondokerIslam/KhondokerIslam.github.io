@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a BSc graduate from Shahjalal University of Science and Technology (SUST), where I had the previlege of working under the guidance of [Prof. Saiful Islam](https://www.sust.edu/d/cse/faculty-profile-detail/55) for my undergraduate thesis. Currently, I am serving [Reve Systems Ltd](https://www.revesoft.com/) as a Software Engineer.
+I am a BSc graduate from Shahjalal University of Science and Technology (SUST), where I had the previlege of working under the guidance of [Prof. Saiful Islam](https://www.sust.edu/d/cse/faculty-profile-detail/55) for my undergraduate thesis. For past two years, I have been serving [Reve Systems Ltd](https://www.revesoft.com/) as a Full Stack Web Software Engineer.
 
 Research Interests
 ======
@@ -16,6 +16,7 @@ I’m broadly interested in Natural Language Processing. They are specifically, 
 * **Social Media Texts (i.e., noisy and/or informal texts)**
 * **Low Resource Languages**
 * **Multilingual NLP**
+* **NLP on SWE**
 
 Current Status
 ======
