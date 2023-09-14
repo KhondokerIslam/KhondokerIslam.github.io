@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Khondoker's Homepage!"
+title: "Khondoker's Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
