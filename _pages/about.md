@@ -11,7 +11,7 @@ redirect_from:
 About
 ======
 
-I am a B.Sc. (Engg.) in Computer Science and Engineering, graduated from [SUST](https://www.sust.edu/). I was fortunate to be supervised by [Prof. Saiful Islam](https://www.sust.edu/d/cse/faculty-profile-detail/55) in my undergraduate thesis. For the past two years, I have been on several Full Stack Web Software Engineer roles across [Reve Systems Ltd](https://www.revesoft.com/) to [Turtle Solutions Limited](https://turtlesolutionsltd.com/). 
+I am a B.Sc. (Engg.) in Computer Science and Engineering, graduated from [SUST](https://www.sust.edu/). I was fortunate to be supervised by [Prof. Saiful Islam](https://www.sust.edu/d/cse/faculty-profile-detail/55) in my undergraduate thesis. For the past two years, I have been on several Full Stack Web Software Engineer roles across [Reve Systems Ltd](https://www.revesoft.com/) and [Turtle Solutions Limited](https://turtlesolutionsltd.com/). 
 
 Research Interests
 ======
