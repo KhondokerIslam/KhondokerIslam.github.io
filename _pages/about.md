@@ -19,7 +19,3 @@ My research goal is to develop methods for large language models to <i>adapt</i>
 1.  Mitigating user-generated <u>noise and bias</u>
 2.  Zero-shot or few-shot <u>cross-lingual</u> learning and transferring
 3.  Teaching models to <u>explain</u> better
-
-Current Status
-======
-I am a <u>Prospective Student</u> seeking graduate research opportunities from the <u>Fall '24</u>.
