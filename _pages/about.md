@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Khondoker's Homepage!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a BSc graduate from Shahjalal University of Science and Technology (SUST), where I had the previlege of working under the guidance of [Prof. Saiful Islam](https://www.sust.edu/d/cse/faculty-profile-detail/55) for my undergraduate thesis. For past two years, I have been serving [Reve Systems Ltd](https://www.revesoft.com/) as a Full Stack Web Software Engineer.
+About
+======
+
+I am a B.Sc. (Engg.) in Computer Science and Engineering, graduated from [SUST](https://www.sust.edu/). I was supervised by [Prof. Saiful Islam](https://www.sust.edu/d/cse/faculty-profile-detail/55) for my undergraduate thesis. For past two years, I have been serving [Reve Systems Ltd](https://www.revesoft.com/) as a Full Stack Web Software Engineer.
 
 Research Interests
 ======
-I’m broadly interested in Natural Language Processing. They are specifically, but not limited to, as follows:
-* **Social Media Texts (i.e., noisy and/or informal texts)**
-* **Low Resource Languages**
-* **Multilingual NLP**
-* **NLP on SWE**
+My research goal is to develop methods for large language models to adapt to new tasks in unseen or scarcely resourced language by
+* **Mitigating user-generated noise and bias**
+* **Zero-shot or few-shot cross-lingual learning and transferring**
+* **Teaching models to explain better**
 
 Current Status
 ======
