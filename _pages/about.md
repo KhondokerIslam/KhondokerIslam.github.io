@@ -15,7 +15,7 @@ I am a B.Sc. (Engg.) graduate from [SUST](https://www.sust.edu/) in Computer Sci
 
 Research Interests
 ======
-My main research goal is to build generalized Large Language Models (LLMs) that can perform well equally in any tasks.
+My main research goal is to build generalized Large Language Models (LLMs) that can perform equally well in any resourced-settings for any tasks.
 
 In brief, I am interested in
 1.  Utilizing <u>metadata</u> associated with the instances to predict the outputs with more confidence
