@@ -18,7 +18,7 @@ Research Interests
 My main research goal is to build generalized Large Language Models (LLMs) that can perform equally well in any resourced-settings, for any tasks.
 
 In brief, I am interested in
-1.  Utilizing <u>metadata</u> associated with the instances to predict the outputs with more confidence
+1.  Dynamically utilizing <u>metadata</u> associated with the instances to predict the outputs with more confidence
 2.  Optimizing neural network <u>learning algorithms</u> for better adaptability in
     low-resource scenarios
 3.  Creating robust algorithms to generate bias-free outputs by improving the models' <u>explainability</u>
