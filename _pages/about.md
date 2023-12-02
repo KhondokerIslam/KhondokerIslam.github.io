@@ -15,12 +15,18 @@ I am a B.Sc. (Engg.) graduate from [SUST](https://www.sust.edu/) in Computer Sci
 
 Research Interests
 ======
-My research goal is to build <i>generalized</i> language models that can <i>reason</i> and <i>explain</i> in any scenario. 
+My main research goal is to build generalized Large Language Models (LLMs) that can perform well equally in any tasks.
 
-In short, I am interested in
+In brief, I am interested in
 1.  Utilizing <u>metadata</u> associated with the instances to predict the outputs with more confidence
 2.  Optimizing neural network <u>learning algorithms</u> for better adaptability in
     low-resource scenarios
 3.  Creating robust algorithms to generate bias-free outputs by improving the models' <u>explainability</u>
 
-My detailed research statement is available [here](http://KhondokerIslam.github.io/files/Khondoker_Ittehadul_Islam_Research_Statement.pdf).
+For my detailed research statement, please check [here](http://KhondokerIslam.github.io/files/Khondoker_Ittehadul_Islam_Research_Statement.pdf).
+
+News
+======
+* One paper accepted at AACL-IJCNLP 2022!
+* One paper accepted at the Findings of EMNLP 2021!
+* One paper accepted at ICCIT 2020!
