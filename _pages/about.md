@@ -15,7 +15,12 @@ I am a B.Sc. (Engg.) graduate from [SUST](https://www.sust.edu/) in Computer Sci
 
 Research Interests
 ======
-My research goal is to develop methods for large language models to <i>adapt</i> to <i>new tasks</i> in <i>unseen or scarcely</i> resourced language through
-1.  Mitigating user-generated <u>noise and bias</u>
-2.  Zero-shot or few-shot <u>cross-lingual</u> learning and transferring
-3.  Improving the models' <u>explainabilty</u>
+My research goal is to build <i>generalized</i> language models that can <i>reason</i> and <i>explain</i> in any scenario. 
+
+In short, I am interested in
+1.  Utilizing <u>metadata</u> associated with the instances to predict the outputs with more confidence
+2.  Optimizing neural network <u>learning algorithms</u> for better adaptability in
+    low-resource scenarios
+3.  Creating robust algorithms to generate bias-free outputs by improving the models' <u>explainability</u>
+
+My detailed research statement is available here.
