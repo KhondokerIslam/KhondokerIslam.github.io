@@ -23,4 +23,4 @@ In short, I am interested in
     low-resource scenarios
 3.  Creating robust algorithms to generate bias-free outputs by improving the models' <u>explainability</u>
 
-My detailed research statement is available here.
+My detailed research statement is available [here](http://KhondokerIslam.github.io/files/Khondoker_Ittehadul_Islam_Research_Statement.pdf).
