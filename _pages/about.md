@@ -27,6 +27,7 @@ For my detailed research statement, please check [here](http://KhondokerIslam.gi
 
 News
 ======
+* Best Reviewer at [BLP @ EMNLP 2023](https://blp-workshop.github.io/)!
 * One paper accepted at AACL-IJCNLP 2022!
 * One paper accepted at the Findings of EMNLP 2021!
 * One paper accepted at ICCIT 2020!
