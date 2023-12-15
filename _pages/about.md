@@ -18,9 +18,9 @@ Research Interests
 My main research goal is to build generalized Large Language Models (LLMs) that can perform equally well in any resourced-settings, for any tasks.
 
 In brief, I am interested in
-1.  Efficiently incorporating cross-lingual transferring capabilities
-2.  Exploring the effectiveness of multi-step reasoning on resource-limited languages
-3.  Mitigating the drawbacks of cross-lingual transfer learning
+1.  Incorporating <u>efficient</u> cross-lingual transferring capabilities
+2.  Exploring the <u>effectiveness</u> of multi-step reasoning on resource-limited languages
+3.  Mitigating the <u>drawbacks</u> of cross-lingual transfer learning
 
 For my detailed research statement, please check [here](http://KhondokerIslam.github.io/files/Khondoker_Ittehadul_Islam_Research_Statement.pdf).
 
