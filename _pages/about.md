@@ -15,7 +15,7 @@ I am a Masters LCT student currently enrolled at [RuG](https://www.rug.nl/). Dur
 
 Research Interests
 ======
-Even though my undergraduate research focused on analysing the LLMs generality on low-resource language, I am currently interested on analysing these models' cross-transferring ability.
+Even though my undergraduate research focused on analysing the LLMs generalizability on low-resource language, I am currently interested on analysing these models' cross-transferring ability.
 
 News
 ======
