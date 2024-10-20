@@ -11,7 +11,7 @@ redirect_from:
 Background
 ======
 
-I am a Masters LCT student currently enrolled at [RuG](https://www.rug.nl/). During my undergraduate thesis, I was fortunate to be supervised by [Prof. Saiful Islam](https://www.sust.edu/d/cse/faculty-profile-detail/55). I had a brief 3+ years of Full Stack Web Software Engineering experience across [Reve Systems Ltd](https://www.revesoft.com/) and [Turtle Solutions Limited](https://turtlesolutionsltd.com/). 
+I am a Masters LCT student currently enrolled at [RuG](https://www.rug.nl/). During my undergraduate thesis, I was fortunate to be supervised by [Prof. Saiful Islam](https://www.sust.edu/d/cse/faculty-profile-detail/55). I had a brief 3+ years of Full Stack Web Software Engineering experience at [Reve Systems Ltd](https://www.revesoft.com/). 
 
 Research Interests
 ======
