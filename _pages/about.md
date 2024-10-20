@@ -19,7 +19,7 @@ Even though my undergraduate research focused on analysing the LLMs generality o
 
 News
 ======
-* Started school as LCT student from 2024!
+* Started school as EM-LCT student from 2024!
 * _Outstanding Reviewer_ at [BLP @ EMNLP 2023](https://blp-workshop.github.io/awards)!
 * One paper accepted at AACL-IJCNLP 2022!
 * One paper accepted at the Findings of EMNLP 2021!
