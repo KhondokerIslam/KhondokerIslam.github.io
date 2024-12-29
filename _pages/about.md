@@ -11,9 +11,7 @@ redirect_from:
 Background
 ======
 
-I am a Masters LCT student currently enrolled at [RuG](https://www.rug.nl/). During my undergraduate thesis, I was fortunate to be supervised by [Prof. Saiful Islam](https://www.sust.edu/d/cse/faculty-profile-detail/55). Currently, I am working alongside [Gabriele Sarti](https://gsarti.com/), under the supervision of [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/).
-
-[//]: # (I had a brief 3+ years of Full Stack Web Software Engineering experience at [Reve Systems Ltd]&#40;https://www.revesoft.com/&#41;. )
+I am a Masters LCT student currently enrolled at [RuG](https://www.rug.nl/). During my undergraduate thesis, I was fortunate to be supervised by [Prof. Saiful Islam](https://www.sust.edu/d/cse/faculty-profile-detail/55). Currently, I am working alongside [Gabriele Sarti](https://gsarti.com/), under the supervision of [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/). In between, I served [Reve Systems Ltd](https://www.revesoft.com/) as a Full Stack Web Software Engineering for 3+ years. 
 
 Research Interests
 ======
