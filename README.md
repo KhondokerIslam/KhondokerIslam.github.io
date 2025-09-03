@@ -1,4 +1,4 @@
-# Haritz Puerto's Website (based on Junmo Kang's Website, which is based on Martin Saveski's template)
+# Khondoker Ittehadul Islam's Website (based on Haritz Puerto's Website, which is based on Martin Saveski's template)
 
 ## Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.
