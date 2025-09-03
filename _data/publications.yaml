@@ -8,6 +8,19 @@ papers:
     data: https://huggingface.co/datasets/khondoker/reveal-bangla
     selected: y
 
+  - title: "Improving OCR for Historical Texts of Multiple Languages"
+    authors:  Hylke Westerdijk, Ben Blankenborg, <b>Khondoker Ittehadul Islam</b>
+    venue: arxiv 2025
+    paper_pdf: https://arxiv.org/pdf/2508.10356
+    selected: n
+
+  - title: "Leveraging sentiment for offensive text classification"
+    authors: <b>Khondoker Ittehadul Islam</b>
+    venue: arxiv 2024
+    paper_pdf: https://arxiv.org/pdf/2412.17825
+    code: https://github.com/KhondokerIslam/senti-affects-olid
+    selected: n
+
   - title: "EmoNoBa: A Dataset for Analyzing Fine-Grained Emotions on Noisy Bangla Texts"
     authors:  <b>Khondoker Ittehadul Islam*</b>, Tanvir Hossain Yuvraz*, Md Saiful Islam, Enamul Hassan
     venue: AACL-IJCNLP 2022
@@ -18,7 +31,7 @@ papers:
     selected: y
 
   - title: "SentNoB: A dataset for analysing sentiment on noisy Bangla texts"
-    authors: <b>Khondoker Ittehadul Islam*</b>, Sudipta Kar, Md Saiful Islam, Mohammad Ruhul Amin
+    authors: <b>Khondoker Ittehadul Islam</b>, Sudipta Kar, Md Saiful Islam, Mohammad Ruhul Amin
     venue: Findings of EMNLP 2021
     paper_pdf: https://aclanthology.org/2021.findings-emnlp.278/
     code: https://github.com/KhondokerIslam/SentNoB
@@ -26,3 +39,11 @@ papers:
     video: https://aclanthology.org/2021.findings-emnlp.278.mp4
     slides: /assets/publications/2021_sentnob/slides.pdf
     selected: y
+
+  - title: "Sentiment analysis in Bengali via transfer learning using multi-lingual BERT"
+    authors: <b>Khondoker Ittehadul Islam</b>, Md Saiful Islam, Mohammad Ruhul Amin
+    venue: ICCIT 2020
+    paper_pdf: https://ieeexplore.ieee.org/abstract/document/9392653
+    code: https://github.com/KhondokerIslam/Bengali_Sentiment
+    data: https://github.com/KhondokerIslam/Bengali_Sentiment/tree/master/Dataset
+    selected: n
