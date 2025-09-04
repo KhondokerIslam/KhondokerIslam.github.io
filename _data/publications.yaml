@@ -24,7 +24,7 @@ papers:
   - title: "EmoNoBa: A Dataset for Analyzing Fine-Grained Emotions on Noisy Bangla Texts"
     authors:  <b><u>Khondoker Ittehadul Islam</u>*</b>, Tanvir Hossain Yuvraz*, Md Saiful Islam, Enamul Hassan
     venue: AACL-IJCNLP 2022
-    paper_pdf: https://aclanthology.org/2022.aacl-short.17/
+    paper_pdf: https://aclanthology.org/2022.aacl-short.17.pdf
     code: https://github.com/KhondokerIslam/EmoNoBa
     data: https://www.kaggle.com/datasets/saifsust/emonoba
     poster: /assets/publications/2022_emonoba/poster.pdf
@@ -33,7 +33,7 @@ papers:
   - title: "SentNoB: A dataset for analysing sentiment on noisy Bangla texts"
     authors: <b><u>Khondoker Ittehadul Islam</u></b>, Sudipta Kar, Md Saiful Islam, Mohammad Ruhul Amin
     venue: Findings of EMNLP 2021
-    paper_pdf: https://aclanthology.org/2021.findings-emnlp.278/
+    paper_pdf: https://aclanthology.org/2021.findings-emnlp.278.pdf
     code: https://github.com/KhondokerIslam/SentNoB
     data: https://www.kaggle.com/datasets/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts
     video: https://aclanthology.org/2021.findings-emnlp.278.mp4
