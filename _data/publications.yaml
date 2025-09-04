@@ -11,7 +11,7 @@ papers:
   - title: "Improving OCR for Historical Texts of Multiple Languages"
     authors:  Hylke Westerdijk, Ben Blankenborg, <b><u>Khondoker Ittehadul Islam</u></b>
     venue: arxiv 2025
-    paper_pdf: https://arxiv.org/pdf/2508.10356
+    report_pdf: https://arxiv.org/pdf/2508.10356
     selected: n
 
   - title: "Leveraging sentiment for offensive text classification"
