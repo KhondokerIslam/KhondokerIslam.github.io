@@ -13,6 +13,13 @@ papers:
     venue: arxiv 2025
     report_pdf: https://arxiv.org/pdf/2508.10356
     selected: n
+  
+  - title: "Joint Effects of Argumentation Theory, Audio Modality and Data Enrichment on LLM-Based Fallacy Classification"
+    authors:  Hongxu Zhou, Hylke Westerdijk, <b><u>Khondoker Ittehadul Islam</u></b>
+    venue: arxiv 2025
+    report_pdf: http://arxiv.org/abs/2509.11127
+    code: https://github.com/hongxuzhou/fallacy_detection
+    selected: n
 
   - title: "Leveraging sentiment for offensive text classification"
     authors: <b><u>Khondoker Ittehadul Islam</u></b>
