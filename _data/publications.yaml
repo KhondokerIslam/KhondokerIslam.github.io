@@ -2,9 +2,9 @@ papers:
 
   - title: "Reveal-Bangla: A Dataset for Cross-Lingual Multi-Step Reasoning Evaluation"
     authors:  <b><u>Khondoker Ittehadul Islam</u></b>, Gabriele Sarti
-    venue: arxiv 2025
+    venue: BLP Workshop @ AACL-IJCNLP 2025
     paper_pdf: https://arxiv.org/pdf/2508.08933
-    # code: https://github.com/KhondokerIslam/reveal-bangla
+    code: https://github.com/KhondokerIslam/reveal-bangla
     data: https://huggingface.co/datasets/khondoker/reveal-bangla
     selected: y
 
