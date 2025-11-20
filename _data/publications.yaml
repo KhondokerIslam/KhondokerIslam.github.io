@@ -20,6 +20,13 @@ papers:
     report_pdf: https://arxiv.org/pdf/2509.11127
     code: https://github.com/hongxuzhou/fallacy_detection
     selected: n
+  
+  - title: "What Really Counts? Examining Step and Token Level Attribution in Multilingual CoT Reasoning"
+    authors:  Jeremias Ferrao, Ezgi Basar, <b><u>Khondoker Ittehadul Islam</u></b>, Mahrokh Hassani
+    venue: arxiv 2025
+    report_pdf: assets\publications\2025_aanlp\what_counts.pdf
+    code: https://github.com/Jazhyc/IKNLP-Attribution
+    selected: n
 
   - title: "Leveraging sentiment for offensive text classification"
     authors: <b><u>Khondoker Ittehadul Islam</u></b>
