@@ -60,4 +60,4 @@ papers:
     paper_pdf: https://ieeexplore.ieee.org/abstract/document/9392653
     code: https://github.com/KhondokerIslam/Bengali_Sentiment
     data: https://github.com/KhondokerIslam/Bengali_Sentiment/tree/master/Dataset
-    selected: n
+    selected: y
