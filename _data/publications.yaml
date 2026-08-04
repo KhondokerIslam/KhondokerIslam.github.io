@@ -1,5 +1,12 @@
 papers:
 
+  - title: "Evaluating VLMs on Multimodal Aristotelian Persuasion Tasks"
+    authors:  <b><u>Khondoker Ittehadul Islam</u></b>
+    venue: arxiv 2026
+    report_pdf: https://arxiv.org/pdf/2608.01238
+    code: https://github.com/KhondokerIslam/ArgMin
+    selected: n
+
   - title: "Reveal-Bangla: A Dataset for Cross-Lingual Multi-Step Reasoning Evaluation"
     authors:  <b><u>Khondoker Ittehadul Islam</u></b>, Gabriele Sarti
     venue: BLP Workshop @ IJCNLP-AACL 2025
