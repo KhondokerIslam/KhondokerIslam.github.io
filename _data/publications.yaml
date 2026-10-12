@@ -45,7 +45,7 @@ papers:
   - title: "What Really Counts? Examining Step and Token Level Attribution in Multilingual CoT Reasoning"
     authors:  Jeremias Ferrao, Ezgi Basar, <b><u>Khondoker Ittehadul Islam</u></b>, Mahrokh Hassani
     venue: arxiv 2025
-    report_pdf: assets\publications\2025_aanlp\what_counts.pdf
+    report_pdf: https://arxiv.org/pdf/2511.15886
     code: https://github.com/Jazhyc/IKNLP-Attribution
     selected: n
 
