@@ -10,14 +10,14 @@ papers:
   - title: "Tackling OOV: Masked Language Models vs Character Diffusion"
     authors:  <b><u>Khondoker Ittehadul Islam</u></b>
     venue: arxiv 2026
-    report_pdf: assets\reports\Khondoker_Islam_Overcoming_OOV.pdf
+    report_pdf: assets\reports\Khondoker_Islam_Tackling_OOV.pdf
     code: https://github.com/KhondokerIslam/mlm-vs-dlm-on-oov
     selected: n
 
   - title: "Evaluating Protein Language Models in Long Protein Sequence Generation"
     authors:  <b><u>Khondoker Ittehadul Islam</u></b>
     venue: arxiv 2026
-    report_pdf: assets\reports\Khondoker_Islam_cfpgen_eval.pdf
+    report_pdf: assets\reports\Khondoker_Islam_eval_cfpgen.pdf
     code: https://github.com/KhondokerIslam/ml4lp
     selected: n
 
